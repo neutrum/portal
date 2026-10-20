@@ -393,7 +393,10 @@
           "xrCameraType": "world",
           "phone": "AR",
           "desktop": "disabled",
-          "headset": "disabled"
+          "headset": "disabled",
+          "world": {
+            "scale": "absolute"
+          }
         }
       },
       "order": 2.1029089692509704
