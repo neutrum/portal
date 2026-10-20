@@ -81,7 +81,10 @@
         "ca62bfee-298a-433b-ad4d-c80d1556193d": {
           "id": "ca62bfee-298a-433b-ad4d-c80d1556193d",
           "name": "portal-world",
-          "parameters": {}
+          "parameters": {
+            "doorWidth": 0.85,
+            "doorHeight": 2
+          }
         }
       },
       "name": "World",
@@ -90,8 +93,8 @@
     "ea687aa9-179a-427e-aff4-1ea0863a0b7f": {
       "id": "ea687aa9-179a-427e-aff4-1ea0863a0b7f",
       "position": [
-        -0.55,
-        1.05,
+        -0.46499999999999997,
+        1,
         0
       ],
       "rotation": [
@@ -101,9 +104,9 @@
         1
       ],
       "scale": [
-        0.1,
-        2.1,
-        0.1
+        0.08,
+        2,
+        0.08
       ],
       "geometry": {
         "type": "box",
@@ -123,8 +126,8 @@
     "b24e4a6d-0310-487a-aa3c-6dc67313afd2": {
       "id": "b24e4a6d-0310-487a-aa3c-6dc67313afd2",
       "position": [
-        0.55,
-        1.05,
+        0.46499999999999997,
+        1,
         0
       ],
       "rotation": [
@@ -134,9 +137,9 @@
         1
       ],
       "scale": [
-        0.1,
-        2.1,
-        0.1
+        0.08,
+        2,
+        0.08
       ],
       "geometry": {
         "type": "box",
@@ -157,7 +160,7 @@
       "id": "17d0a6b0-692e-404a-acdd-a324d5882d30",
       "position": [
         0,
-        2.15,
+        2.04,
         0
       ],
       "rotation": [
@@ -167,9 +170,9 @@
         1
       ],
       "scale": [
-        1.2,
-        0.1,
-        0.1
+        1.01,
+        0.08,
+        0.08
       ],
       "geometry": {
         "type": "box",
@@ -190,7 +193,7 @@
       "id": "6ee97899-6fe6-409f-bc72-8e63cfde39ba",
       "position": [
         0,
-        1.05,
+        1,
         0
       ],
       "rotation": [
@@ -200,8 +203,8 @@
         1
       ],
       "scale": [
-        1,
-        2.1,
+        0.85,
+        2,
         1
       ],
       "geometry": {
